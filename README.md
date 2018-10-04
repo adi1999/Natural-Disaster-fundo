@@ -1,2 +1,6 @@
-# Natural-Disaster-fundo-
+# Natural-Disaster-fundo++
 An attempt for finding better ways to save lives and prevent economic losses through mechanisms to predict, prevent, manage the impact of natural disasters.
+
+First step would be create a model for disaster prediction. Machine learning approaches such as predictive analytics can also analyze past events to identify and extract patterns and populations vulnerable to natural calamities. For instance, clustering algorithms can classify disaster data on the basis of severity. They can identify and segregate climatic patterns which may cause local storms with the cloud conditions which may lead to a widespread cyclone. We can build a artificial neural network to take in information such as region, country, and natural disaster type to predict the potential monetary impact of natural disasters. 
+
+Also after that we can use Sentiment analysis on social media data for disaster management and recovery. Social media channels are a major source of news in present times. Some of the most actionable information, during a disaster, comes from social media users. Real-time images and comments from Facebook, Twitter, Instagram, and YouTube can be analyzed and validated by AI to filter real information from fake ones. This can be builded by integrating azure image recognition with the existing sentiment analysis (whichever has better efficiency).
